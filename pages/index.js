@@ -1,5 +1,5 @@
 import Contact from '@/components/Contact';
-import Head from 'next/head'
+import Head from 'next/head';
 import Hero from '@/components/Hero';
 import Projects from '@/components/Projects';
 import Stack from '@/components/Stack';

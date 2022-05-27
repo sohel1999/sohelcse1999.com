@@ -1,11 +1,13 @@
 export const meta = {
-  title: 'LeBron James - Web Developer and Designer',
-  description: 'Hey, I\'m LeBron. I\'m a web developer and designer building things people love.'
-}
+  title: 'Sohel Mia - Software Engineer',
+  description:
+    "Hey, I'm Sohel Mia. I'm a web developer and designer building things people love."
+};
 
 export const hero = {
-  title: "Hey there! I'm LeBron James.",
-  desc: "I'm a web developer and designer building things people love."
+  title: "Hey there! I'm Sohel Mia.",
+  desc: `Sohel Mia has been in software development for 4+ years and designing efficient, scalable and & secure technology solutions. Besides being a software engineer, he loves to promote coding to the youth.
+  Currently, he is working as a Software Engineer, Cloud & CDN Service Provider In Bangladesh | VOD, Streaming, Edge Computing at Gotipath.`
 };
 
 export const projects = {
@@ -13,22 +15,16 @@ export const projects = {
   desc: "Here are some of my favorite projects that I've worked on.",
   projects: [
     {
-      title: 'Lakers Official',
-      description: 'Home to the Los-Angeles Lakers',
-      link: 'https://lakers.com',
+      title: 'Gotipath Console',
+      description: '',
+      link: 'https://console.gotipath.com',
       github: ''
     },
     {
-      title: 'Cool App',
-      description: 'A cool app!',
-      link: 'https://lebronscoolapp.com',
-      github: 'theking-lbj/cool-app'
-    },
-    {
-      title: 'Another app',
-      description: 'Another app!',
-      link: 'https://anotherlebronapp.com',
-      github: 'theking-lbj/another-app'
+      title: 'Deepto Tv',
+      description: '',
+      link: 'https://beta.deepto.tv',
+      github: ''
     }
   ]
 };
@@ -36,22 +32,29 @@ export const projects = {
 export const stack = {
   title: 'My Stack',
   stack: [
+    'Golang',
+    'PHP',
+    'Mysql',
+    'Docker',
+    'Redis',
+    'Laravel',
+    'Microservice',
     'HTML',
     'CSS',
     'JavaScript',
     'Typescript',
     'React',
     'NextJS',
+    'Vuejs',
+    'Nuxtjs',
     'TailwindCSS',
-    'Firebase',
     'Git'
   ]
 };
 
 export const contact = {
   title: 'Contact Me',
-  email: 'lebron@gmail.com',
-  github: 'theking-lbj',
-  dribbble: 'theking-lbj',
+  email: 'sohelcse1999@gmail.com',
+  github: 'sohel1999',
   linkedin: 'theking-lbj'
 };
